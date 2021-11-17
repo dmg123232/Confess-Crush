@@ -7,7 +7,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'thầy cẻm ơn hai học trò cute của thầy nhé',
     mess: 'hihi em bít mà hehe,thầy cũng là người thầy cute nhất tụi em từng gặp đấy ạ:333',
-    messDesc: 'thầy đã giúp tụi em rất nhiều,ở thầy tụi em thấy được một người hết mực yêu nghề,rất kiên nhẫn giảng những bài chúng em chưa hỉu,ân cần nhắc nhở quan tâm để chúng em không vì những năm ham chơi maflangr phí cuộc đời'; ',
-    btnAccept: 'Okiiiii,cảm ơn hai bé học trò cưng của thầy nhé',
+    messDesc: 'thầy đã giúp tụi em rất nhiều,ở thầy tụi em thấy được một người hết mực yêu nghề,rất kiên nhẫn giảng những bài chúng em chưa hỉu,ân cần nhắc nhở quan tâm để chúng em không vì những năm ham chơi mà lảng phí cuộc đời'; ',
+    btnAccept: 'Okiiiii,cảm ơn hai bé học trò cưng của thầy nhé,thầy cẻm động qá hic hic',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
