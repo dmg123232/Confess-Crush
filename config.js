@@ -1,17 +1,13 @@
 const CONFIG = {
-    titleWeb: "phương mún nói đìu ni..........",
-    introTitle: 'bạn niiiiiiiiii ',
-    introDesc: `cậu quá là cutee,đẹp trai,cậu chính là gu mình đóa,i lác you pặc pặc:333333`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng cậu đã yêu tớ ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng cậu đã say tớ ngay từ lúc thấy nụ cười ấy:333 ',
+    titleWeb: "ngọc phương cute quá đi hihi",
+    introTitle: 'dạ phương và thủy tiên muốn nói điều này ạ hihii........ ';
     btnYes: 'Thích nắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu phương dậy<3',
+    btnNo: 'Không thích nghe :3',
+    question: 'tụi em cảm ơn thầy NHẬT ANH rất bự ạ,chúc thầy vẫn luôn lạc quan,iu đời,đặc biệt thầy sẽ thuộc lời bài hát và lên được nốt cao ạ  hehe',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
-    messDesc: 'chìu nay 3h, mình qua đón đi chơi nha',
-    btnAccept: 'Okiiiii lun,iu phương love you <3',
+    reply: 'thầy cẻm ơn hai học trò cute của thầy nhé',
+    mess: 'hihi em bít mà hehe,thầy cũng là người thầy cute nhất tụi em từng gặp đấy ạ:333',
+    messDesc: 'thầy đã giúp tụi em rất nhiều,ở thầy tụi em thấy được một người hết mực yêu nghề,rất kiên nhẫn giảng những bài chúng em chưa hỉu,ân cần nhắc nhở quan tâm để chúng em không vì những năm ham chơi maflangr phí cuộc đời'; ',
+    btnAccept: 'Okiiiii,cảm ơn hai bé học trò cưng của thầy nhé',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
